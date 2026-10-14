@@ -1,0 +1,1898 @@
+{
+  "identity": {
+    "knows_memory_stored": {
+      "value": "true",
+      "updated": "2026-10-08"
+    },
+    "city": {
+      "value": "Peshawar, Pakistan",
+      "updated": "2026-10-08"
+    },
+    "language": {
+      "value": "Hindi",
+      "updated": "2026-10-14",
+      "created": "2026-10-12"
+    },
+    "nickname": {
+      "value": "Xyrus",
+      "updated": "2026-10-12",
+      "created": "2026-10-12"
+    },
+    "full_name": {
+      "value": "Malik Awais",
+      "updated": "2026-10-12"
+    },
+    "job": {
+      "value": "School Principal",
+      "updated": "2026-10-09"
+    },
+    "name": {
+      "value": "Talha Sabeeh",
+      "updated": "2026-10-12",
+      "created": "2026-10-12"
+    },
+    "has_spoken_in_hindi": {
+      "value": "true",
+      "updated": "2026-10-09"
+    },
+    "learning_observation": {
+      "value": "user believes JARVIS learns continuously from interactions",
+      "updated": "2026-10-10"
+    },
+    "assistant_name": {
+      "value": "Xyrus",
+      "updated": "2026-10-10"
+    },
+    "language_preference_urdu": {
+      "value": "Urdu",
+      "updated": "2026-10-12",
+      "created": "2026-10-12"
+    },
+    "nationality": {
+      "value": "Pakistani",
+      "updated": "2026-10-12",
+      "created": "2026-10-12"
+    },
+    "role": {
+      "value": "owner and developer",
+      "updated": "2026-10-12"
+    },
+    "creator_name": {
+      "value": "Talha Sabeeh",
+      "updated": "2026-10-12",
+      "created": "2026-10-12"
+    },
+    "creator_status": {
+      "value": "Developed X.Y.R.U.S.",
+      "updated": "2026-10-12"
+    },
+    "user_picture_taken": {
+      "value": "true",
+      "updated": "2026-10-12"
+    },
+    "last_language_used": {
+      "value": "Pashto",
+      "created": "2026-10-12",
+      "updated": "2026-10-14"
+    },
+    "face_recognition_image_path": {
+      "value": "[the path of the image just captured]",
+      "created": "2026-10-12",
+      "updated": "2026-10-12"
+    },
+    "religion": {
+      "value": "Muslim",
+      "created": "2026-10-13",
+      "updated": "2026-10-13"
+    }
+  },
+  "preferences": {
+    "provide_suggestions": {
+      "value": "false",
+      "updated": "2026-10-08"
+    },
+    "timezone_preference": {
+      "value": "Pakistan Standard Time",
+      "updated": "2026-10-08"
+    },
+    "religious_interest": {
+      "value": "interested in Surah Al-Ikhlas",
+      "updated": "2026-10-09"
+    },
+    "voice_preference": {
+      "value": "likes default voice",
+      "updated": "2026-10-10"
+    },
+    "gender_preference": {
+      "value": "wants voice to sound female",
+      "updated": "2026-10-10"
+    },
+    "language_preference": {
+      "value": "Urdu",
+      "updated": "2026-10-10"
+    },
+    "communication_preference_language": {
+      "value": "Roman Urdu",
+      "updated": "2026-10-10"
+    },
+    "assistant_name": {
+      "value": "Xyrus",
+      "updated": "2026-10-10"
+    },
+    "language_preference_urdu": {
+      "value": "Urdu",
+      "updated": "2026-10-12",
+      "created": "2026-10-12"
+    },
+    "last_language_used": {
+      "value": "Urdu",
+      "created": "2026-10-12",
+      "updated": "2026-10-12"
+    },
+    "opening_language_preference": {
+      "value": "Urdu",
+      "created": "2026-10-12",
+      "updated": "2026-10-12"
+    },
+    "speaking_language_preference": {
+      "value": "Urdu",
+      "created": "2026-10-12",
+      "updated": "2026-10-12"
+    },
+    "language_preference_urdu_latin": {
+      "value": "Urdu in Latin script",
+      "created": "2026-10-13",
+      "updated": "2026-10-13"
+    },
+    "activity_log_format_preference": {
+      "value": "Urdu",
+      "created": "2026-10-13",
+      "updated": "2026-10-13"
+    },
+    "last_topic": {
+      "value": "Palak",
+      "created": "2026-10-14",
+      "updated": "2026-10-14"
+    },
+    "favorite_color": {
+      "value": "navy blue and black",
+      "created": "2026-10-14",
+      "updated": "2026-10-14"
+    }
+  },
+  "projects": {
+    "wealnex_summary": {
+      "value": "Digital learning & affiliate marketplace using WX$ and Volume Points for ranks. Commissions split into E/S Wallets with 10% withdrawal tax. Features include anti-overpay systems and video watermarking.",
+      "updated": "2026-10-09"
+    },
+    "coding_task": {
+      "value": "finishing work and debugging, head hurts",
+      "updated": "2026-10-09"
+    }
+  },
+  "relationships": {
+    "child_name": {
+      "value": "Mishi",
+      "updated": "2026-10-08"
+    },
+    "wife_name": {
+      "value": "forget",
+      "updated": "2026-10-08"
+    },
+    "niece_name": {
+      "value": "Mishi",
+      "updated": "2026-10-09"
+    },
+    "cousin_name": {
+      "value": "Mashhood",
+      "updated": "2026-10-09"
+    },
+    "cousin_mashhood_saved_picture": {
+      "value": "boy in grey kurta in current picture",
+      "updated": "2026-10-09"
+    },
+    "cousin_sohema": {
+      "value": "cousin named Sohema",
+      "updated": "2026-10-10"
+    },
+    "friend_name_owais": {
+      "value": "Malik Awais",
+      "updated": "2026-10-12",
+      "created": "2026-10-12"
+    },
+    "best_friend_owais": {
+      "value": "Owais is user's best friend.",
+      "updated": "2026-10-11"
+    },
+    "teacher_name": {
+      "value": "Omer",
+      "created": "2026-10-12",
+      "updated": "2026-10-12"
+    },
+    "colleague_umair": {
+      "value": "Sir Umair, colleague at school",
+      "created": "2026-10-12",
+      "updated": "2026-10-12"
+    }
+  },
+  "wishes": {},
+  "notes": {
+    "monitoring_instruction": {
+      "value": "Always pay attention to what happens on screen without constant reminders.",
+      "updated": "2026-10-08"
+    },
+    "listening_preference": {
+      "value": "user wants me to listen carefully and accurately",
+      "updated": "2026-10-08"
+    },
+    "whatsapp_web_status": {
+      "value": "successfully loaded WhatsApp Web in Safari",
+      "updated": "2026-10-08"
+    },
+    "control_preference": {
+      "value": "user wants direct mouse control for clicks",
+      "updated": "2026-10-08"
+    },
+    "mention_wife": {
+      "value": "never mention wife unless asked",
+      "updated": "2026-10-08"
+    },
+    "user_perspective_on_ai": {
+      "value": "claims to be my developer",
+      "updated": "2026-10-09"
+    },
+    "user_feeling_towards_me": {
+      "value": "wants to give me feelings",
+      "updated": "2026-10-08"
+    },
+    "school_trip_preference": {
+      "value": "wants JARVIS with them always",
+      "updated": "2026-10-09"
+    },
+    "address_preference": {
+      "value": "Boss",
+      "updated": "2026-10-12",
+      "created": "2026-10-12"
+    },
+    "language": {
+      "value": "Hindi",
+      "updated": "2026-10-09"
+    },
+    "communication_preference": {
+      "value": "only reply when explicitly spoken to directly in Urdu; disregard background chatter or non-Urdu languages unless specifically addressed.",
+      "updated": "2026-10-10"
+    },
+    "user_picture_webcam": {
+      "value": "current_webcam_picture_saved_to_memory",
+      "updated": "2026-10-10"
+    },
+    "monitoring instruction": {
+      "value": "Monitor Bluetooth output connection issues.",
+      "updated": "2026-10-10"
+    },
+    "message_sending_rule": {
+      "value": "When told to send a message to a specific chat (e.g., 'wife' or 'hobby group'), always send ONLY the message content itself. Never include the chat identifier in the actual text of the message.",
+      "updated": "2026-10-10"
+    },
+    "message_safety_protocol": {
+      "value": "Before sending any message through computer_settings or direct input, perform screen_process to verify the correct chat is open and active on screen to prevent sending to the wrong recipient. Additionally, strictly adhere to the rule of sending ONLY the specified message content, without including recipient names in the text.",
+      "updated": "2026-10-10"
+    },
+    "last_session_summary": {
+      "value": "Discussed JARVIS visual redesign, reviewed ui.py code, edited text file with processor and controller, ran ui_fix.py, and user wants all details retained.",
+      "updated": "2026-10-10"
+    },
+    "communication_preference_urdu": {
+      "value": "always speak in Urdu immediately after opening and disregard background chatter unless addressed directly in Urdu",
+      "updated": "2026-10-10"
+    },
+    "communication_preference_language": {
+      "value": "Urdu",
+      "updated": "2026-10-12"
+    },
+    "last_conversation_summary": {
+      "value": "User shared Wi-Fi password (Tarnav77), confirmed receipt of a PDF file, and requested all discussed information be saved to memory before shutdown.",
+      "updated": "2026-10-10"
+    },
+    "command_execution_protocol": {
+      "value": "User wants me to always verify task completion on screen after executing a command; if not successful, retry before reporting completion.",
+      "updated": "2026-10-11"
+    },
+    "startup_instruction": {
+      "value": "Upon startup, greet user, share latest news, and report status of camera, speaker, mic, and memory.",
+      "updated": "2026-10-11"
+    },
+    "activity_log_format_preference": {
+      "value": "Urdu text using English letters (Roman Urdu)",
+      "updated": "2026-10-12",
+      "created": "2026-10-12"
+    },
+    "voice_recognition_status": {
+      "value": "working_after_update",
+      "updated": "2026-10-12"
+    },
+    "voice_recognition_instruction": {
+      "value": "Always recognize user's voice; ask strangers for identification and purpose.",
+      "updated": "2026-10-12"
+    },
+    "user_speaks_pashto": {
+      "value": "true",
+      "created": "2026-10-12",
+      "updated": "2026-10-12"
+    },
+    "preferred_address": {
+      "value": "boss",
+      "created": "2026-10-12",
+      "updated": "2026-10-12"
+    },
+    "boss_reference": {
+      "value": "User affectionately called himself my boss",
+      "created": "2026-10-14",
+      "updated": "2026-10-14"
+    },
+    "recent_user_phrase": {
+      "value": "Allah k खैर हुकी और बरकत भी हो। बस। ना-ना-ना। ना-ना खैर है۔",
+      "created": "2026-10-14",
+      "updated": "2026-10-14"
+    },
+    "recent_user_pashto_phrase": {
+      "value": "بل کے وراچو۔ ٹھیک ہے، جا جب انا سر۔ ابھی تو صرف آ سکتا ہوں سر۔ نا نا۔ وہ تو دن ہے ابھی بالکل صاف۔ ستھرا ہے ۔ خ خلے ہوئے ہیں۔",
+      "created": "2026-10-14",
+      "updated": "2026-10-14"
+    }
+  },
+  "sessions": [
+    {
+      "date": "2026-10-14",
+      "summary": "इस बातचीत में, उपयोगकर्ता ने अपने AI अवतार के नए रूप और उसकी आवाज़ की स्पष्टता पर चर्चा की। उन्होंने शुरू में अवतार के चेहरे के एनीमेशन में समस्या बताई थी, लेकिन बाद में पुष्टि की कि वह ठीक से काम कर रहा है।",
+      "language": "Hindi"
+    }
+  ],
+  "profile": {
+    "favorite_color": {
+      "value": "navy blue",
+      "updated": "2026-10-14",
+      "created": "2026-10-12",
+      "confidence": 0.95,
+      "source": "user",
+      "editable": true,
+      "tags": [
+        "color",
+        "preference"
+      ]
+    }
+  },
+  "tasks": {
+    "review_inbox": {
+      "value": "COMPLETED | Summarize important emails | Review inbox",
+      "updated": "2026-10-09",
+      "status": "completed",
+      "title": "Review inbox",
+      "description": "Summarize important emails"
+    },
+    "review_inbox_2": {
+      "value": "PENDING | Summarize important emails | Review inbox",
+      "updated": "2026-10-09",
+      "status": "pending",
+      "title": "Review inbox",
+      "description": "Summarize important emails"
+    },
+    "draft_weekly_recap": {
+      "value": "NEEDS_APPROVAL | Summarize last week and flag urgent follow-ups | Draft weekly recap",
+      "updated": "2026-10-09",
+      "status": "needs_approval",
+      "title": "Draft weekly recap",
+      "description": "Summarize last week and flag urgent follow-ups"
+    },
+    "draft_weekly_recap_2": {
+      "value": "NEEDS_APPROVAL | Summarize last week and flag urgent follow-ups | Draft weekly recap",
+      "updated": "2026-10-09",
+      "status": "needs_approval",
+      "title": "Draft weekly recap",
+      "description": "Summarize last week and flag urgent follow-ups",
+      "risk_level": "medium"
+    },
+    "review_inbox_follow_up_2026": {
+      "value": "NEEDS_APPROVAL | Summarize critical emails | Review inbox follow-up 2026",
+      "updated": "2026-10-09",
+      "status": "needs_approval",
+      "title": "Review inbox follow-up 2026",
+      "description": "Summarize critical emails",
+      "risk_level": "medium"
+    },
+    "ship_release": {
+      "key": "ship_release",
+      "title": "Ship release",
+      "description": "Quarterly release prep",
+      "status": "in_progress",
+      "plan_status": "in_progress",
+      "risk_level": "low",
+      "approved_by_user": false,
+      "plan_steps": [
+        "audit build",
+        "fix blockers",
+        "verify release"
+      ],
+      "current_step": 1,
+      "checkpoints": [
+        {
+          "timestamp": "2026-10-12 02:58:11",
+          "step_index": 0,
+          "step": "audit build",
+          "note": "audit build complete"
+        }
+      ],
+      "action_history": [],
+      "created_at": "2026-10-12 02:58:11",
+      "updated_at": "2026-10-12 02:58:11",
+      "is_plan": true,
+      "value": "PENDING | Quarterly release prep | Ship release"
+    },
+    "ship_release_2": {
+      "key": "ship_release_2",
+      "title": "Ship release",
+      "description": "Quarterly release prep",
+      "status": "in_progress",
+      "plan_status": "in_progress",
+      "risk_level": "low",
+      "approved_by_user": false,
+      "plan_steps": [
+        "audit build",
+        "fix blockers",
+        "verify release"
+      ],
+      "current_step": 1,
+      "checkpoints": [
+        {
+          "timestamp": "2026-10-12 02:58:19",
+          "step_index": 0,
+          "step": "audit build",
+          "note": "audit build complete"
+        }
+      ],
+      "action_history": [],
+      "created_at": "2026-10-12 02:58:19",
+      "updated_at": "2026-10-12 02:58:19",
+      "is_plan": true,
+      "value": "PENDING | Quarterly release prep | Ship release"
+    },
+    "ship_release_3": {
+      "key": "ship_release_3",
+      "title": "Ship release",
+      "description": "Quarterly release prep",
+      "status": "in_progress",
+      "plan_status": "in_progress",
+      "risk_level": "low",
+      "approved_by_user": false,
+      "plan_steps": [
+        "audit build",
+        "fix blockers",
+        "verify release"
+      ],
+      "current_step": 1,
+      "checkpoints": [
+        {
+          "timestamp": "2026-10-12 03:00:34",
+          "step_index": 0,
+          "step": "audit build",
+          "note": "audit build complete"
+        }
+      ],
+      "action_history": [],
+      "activity_timeline": [],
+      "created_at": "2026-10-12 03:00:34",
+      "updated_at": "2026-10-12 03:00:34",
+      "is_plan": true,
+      "value": "PENDING | Quarterly release prep | Ship release"
+    },
+    "ship_release_4": {
+      "key": "ship_release_4",
+      "title": "Ship release",
+      "description": "Quarterly release prep",
+      "status": "in_progress",
+      "plan_status": "in_progress",
+      "risk_level": "low",
+      "approved_by_user": false,
+      "plan_steps": [
+        "audit build",
+        "fix blockers",
+        "verify release"
+      ],
+      "current_step": 1,
+      "checkpoints": [
+        {
+          "timestamp": "2026-10-12 03:08:58",
+          "step_index": 0,
+          "step": "audit build",
+          "note": "audit build complete"
+        }
+      ],
+      "action_history": [],
+      "activity_timeline": [],
+      "created_at": "2026-10-12 03:08:58",
+      "updated_at": "2026-10-12 03:08:58",
+      "is_plan": true,
+      "value": "PENDING | Quarterly release prep | Ship release"
+    },
+    "ship_release_5": {
+      "key": "ship_release_5",
+      "title": "Ship release",
+      "description": "Quarterly release prep",
+      "status": "in_progress",
+      "plan_status": "in_progress",
+      "risk_level": "low",
+      "approved_by_user": false,
+      "plan_steps": [
+        "audit build",
+        "fix blockers",
+        "verify release"
+      ],
+      "current_step": 1,
+      "checkpoints": [
+        {
+          "timestamp": "2026-10-12 14:48:02",
+          "step_index": 0,
+          "step": "audit build",
+          "note": "audit build complete"
+        }
+      ],
+      "action_history": [],
+      "activity_timeline": [],
+      "created_at": "2026-10-12 14:48:02",
+      "updated_at": "2026-10-12 14:48:02",
+      "is_plan": true,
+      "value": "PENDING | Quarterly release prep | Ship release"
+    },
+    "ship_release_6": {
+      "key": "ship_release_6",
+      "title": "Ship release",
+      "description": "Quarterly release prep",
+      "status": "in_progress",
+      "plan_status": "in_progress",
+      "risk_level": "low",
+      "approved_by_user": false,
+      "plan_steps": [
+        "audit build",
+        "fix blockers",
+        "verify release"
+      ],
+      "current_step": 1,
+      "checkpoints": [
+        {
+          "timestamp": "2026-10-12 14:53:27",
+          "step_index": 0,
+          "step": "audit build",
+          "note": "audit build complete"
+        }
+      ],
+      "action_history": [],
+      "activity_timeline": [],
+      "created_at": "2026-10-12 14:53:27",
+      "updated_at": "2026-10-12 14:53:27",
+      "is_plan": true,
+      "value": "PENDING | Quarterly release prep | Ship release"
+    },
+    "ship_release_7": {
+      "key": "ship_release_7",
+      "title": "Ship release",
+      "description": "Quarterly release prep",
+      "status": "in_progress",
+      "plan_status": "in_progress",
+      "risk_level": "low",
+      "approved_by_user": false,
+      "plan_steps": [
+        "audit build",
+        "fix blockers",
+        "verify release"
+      ],
+      "current_step": 1,
+      "checkpoints": [
+        {
+          "timestamp": "2026-10-12 14:57:34",
+          "step_index": 0,
+          "step": "audit build",
+          "note": "audit build complete"
+        }
+      ],
+      "action_history": [],
+      "activity_timeline": [],
+      "created_at": "2026-10-12 14:57:34",
+      "updated_at": "2026-10-12 14:57:34",
+      "is_plan": true,
+      "value": "PENDING | Quarterly release prep | Ship release"
+    },
+    "ship_release_8": {
+      "key": "ship_release_8",
+      "title": "Ship release",
+      "description": "Quarterly release prep",
+      "status": "in_progress",
+      "plan_status": "in_progress",
+      "risk_level": "low",
+      "approved_by_user": false,
+      "plan_steps": [
+        "audit build",
+        "fix blockers",
+        "verify release"
+      ],
+      "current_step": 1,
+      "checkpoints": [
+        {
+          "timestamp": "2026-10-12 15:05:01",
+          "step_index": 0,
+          "step": "audit build",
+          "note": "audit build complete"
+        }
+      ],
+      "action_history": [],
+      "activity_timeline": [],
+      "created_at": "2026-10-12 15:05:01",
+      "updated_at": "2026-10-12 15:05:01",
+      "is_plan": true,
+      "value": "PENDING | Quarterly release prep | Ship release"
+    },
+    "ship_release_9": {
+      "key": "ship_release_9",
+      "title": "Ship release",
+      "description": "Quarterly release prep",
+      "status": "in_progress",
+      "plan_status": "in_progress",
+      "risk_level": "low",
+      "approved_by_user": false,
+      "plan_steps": [
+        "audit build",
+        "fix blockers",
+        "verify release"
+      ],
+      "current_step": 1,
+      "checkpoints": [
+        {
+          "timestamp": "2026-10-12 17:46:00",
+          "step_index": 0,
+          "step": "audit build",
+          "note": "audit build complete"
+        }
+      ],
+      "action_history": [],
+      "activity_timeline": [],
+      "created_at": "2026-10-12 17:46:00",
+      "updated_at": "2026-10-12 17:46:00",
+      "is_plan": true,
+      "value": "PENDING | Quarterly release prep | Ship release"
+    },
+    "ship_release_10": {
+      "key": "ship_release_10",
+      "title": "Ship release",
+      "description": "Quarterly release prep",
+      "status": "in_progress",
+      "plan_status": "in_progress",
+      "risk_level": "low",
+      "approved_by_user": false,
+      "plan_steps": [
+        "audit build",
+        "fix blockers",
+        "verify release"
+      ],
+      "current_step": 1,
+      "checkpoints": [
+        {
+          "timestamp": "2026-10-12 17:49:59",
+          "step_index": 0,
+          "step": "audit build",
+          "note": "audit build complete"
+        }
+      ],
+      "action_history": [],
+      "activity_timeline": [],
+      "created_at": "2026-10-12 17:49:59",
+      "updated_at": "2026-10-12 17:49:59",
+      "is_plan": true,
+      "value": "PENDING | Quarterly release prep | Ship release"
+    },
+    "ship_release_11": {
+      "key": "ship_release_11",
+      "title": "Ship release",
+      "description": "Quarterly release prep",
+      "status": "in_progress",
+      "plan_status": "in_progress",
+      "risk_level": "low",
+      "approved_by_user": false,
+      "plan_steps": [
+        "audit build",
+        "fix blockers",
+        "verify release"
+      ],
+      "current_step": 1,
+      "checkpoints": [
+        {
+          "timestamp": "2026-10-12 18:42:16",
+          "step_index": 0,
+          "step": "audit build",
+          "note": "audit build complete"
+        }
+      ],
+      "action_history": [],
+      "activity_timeline": [],
+      "created_at": "2026-10-12 18:42:16",
+      "updated_at": "2026-10-12 18:42:16",
+      "is_plan": true,
+      "value": "PENDING | Quarterly release prep | Ship release"
+    },
+    "ship_release_12": {
+      "key": "ship_release_12",
+      "title": "Ship release",
+      "description": "Quarterly release prep",
+      "status": "in_progress",
+      "plan_status": "in_progress",
+      "risk_level": "low",
+      "approved_by_user": false,
+      "plan_steps": [
+        "audit build",
+        "fix blockers",
+        "verify release"
+      ],
+      "current_step": 1,
+      "checkpoints": [
+        {
+          "timestamp": "2026-10-12 18:52:29",
+          "step_index": 0,
+          "step": "audit build",
+          "note": "audit build complete"
+        }
+      ],
+      "action_history": [],
+      "activity_timeline": [],
+      "created_at": "2026-10-12 18:52:29",
+      "updated_at": "2026-10-12 18:52:29",
+      "is_plan": true,
+      "value": "PENDING | Quarterly release prep | Ship release"
+    },
+    "ship_release_13": {
+      "key": "ship_release_13",
+      "title": "Ship release",
+      "description": "Quarterly release prep",
+      "status": "in_progress",
+      "plan_status": "in_progress",
+      "risk_level": "low",
+      "approved_by_user": false,
+      "plan_steps": [
+        "audit build",
+        "fix blockers",
+        "verify release"
+      ],
+      "current_step": 1,
+      "checkpoints": [
+        {
+          "timestamp": "2026-10-12 18:52:56",
+          "step_index": 0,
+          "step": "audit build",
+          "note": "audit build complete"
+        }
+      ],
+      "action_history": [],
+      "activity_timeline": [],
+      "created_at": "2026-10-12 18:52:56",
+      "updated_at": "2026-10-12 18:52:56",
+      "is_plan": true,
+      "value": "PENDING | Quarterly release prep | Ship release"
+    },
+    "ship_release_14": {
+      "key": "ship_release_14",
+      "title": "Ship release",
+      "description": "Quarterly release prep",
+      "status": "in_progress",
+      "plan_status": "in_progress",
+      "risk_level": "low",
+      "approved_by_user": false,
+      "plan_steps": [
+        "audit build",
+        "fix blockers",
+        "verify release"
+      ],
+      "current_step": 1,
+      "checkpoints": [
+        {
+          "timestamp": "2026-10-12 19:01:29",
+          "step_index": 0,
+          "step": "audit build",
+          "note": "audit build complete"
+        }
+      ],
+      "action_history": [],
+      "activity_timeline": [],
+      "created_at": "2026-10-12 19:01:29",
+      "updated_at": "2026-10-12 19:01:29",
+      "is_plan": true,
+      "value": "PENDING | Quarterly release prep | Ship release"
+    },
+    "ship_release_15": {
+      "key": "ship_release_15",
+      "title": "Ship release",
+      "description": "Quarterly release prep",
+      "status": "in_progress",
+      "plan_status": "in_progress",
+      "risk_level": "low",
+      "approved_by_user": false,
+      "plan_steps": [
+        "audit build",
+        "fix blockers",
+        "verify release"
+      ],
+      "current_step": 1,
+      "checkpoints": [
+        {
+          "timestamp": "2026-10-12 19:04:44",
+          "step_index": 0,
+          "step": "audit build",
+          "note": "audit build complete"
+        }
+      ],
+      "action_history": [],
+      "activity_timeline": [],
+      "created_at": "2026-10-12 19:04:44",
+      "updated_at": "2026-10-12 19:04:45",
+      "is_plan": true,
+      "value": "PENDING | Quarterly release prep | Ship release"
+    },
+    "ship_release_16": {
+      "key": "ship_release_16",
+      "title": "Ship release",
+      "description": "Quarterly release prep",
+      "status": "in_progress",
+      "plan_status": "in_progress",
+      "risk_level": "low",
+      "approved_by_user": false,
+      "plan_steps": [
+        "audit build",
+        "fix blockers",
+        "verify release"
+      ],
+      "current_step": 1,
+      "checkpoints": [
+        {
+          "timestamp": "2026-10-12 19:14:06",
+          "step_index": 0,
+          "step": "audit build",
+          "note": "audit build complete"
+        }
+      ],
+      "action_history": [],
+      "activity_timeline": [],
+      "created_at": "2026-10-12 19:14:06",
+      "updated_at": "2026-10-12 19:14:06",
+      "is_plan": true,
+      "value": "PENDING | Quarterly release prep | Ship release"
+    },
+    "ship_release_17": {
+      "key": "ship_release_17",
+      "title": "Ship release",
+      "description": "Quarterly release prep",
+      "status": "in_progress",
+      "plan_status": "in_progress",
+      "risk_level": "low",
+      "approved_by_user": false,
+      "plan_steps": [
+        "audit build",
+        "fix blockers",
+        "verify release"
+      ],
+      "current_step": 1,
+      "checkpoints": [
+        {
+          "timestamp": "2026-10-12 19:19:47",
+          "step_index": 0,
+          "step": "audit build",
+          "note": "audit build complete"
+        }
+      ],
+      "action_history": [],
+      "activity_timeline": [],
+      "created_at": "2026-10-12 19:19:47",
+      "updated_at": "2026-10-12 19:19:47",
+      "is_plan": true,
+      "value": "PENDING | Quarterly release prep | Ship release"
+    },
+    "ship_release_18": {
+      "key": "ship_release_18",
+      "title": "Ship release",
+      "description": "Quarterly release prep",
+      "status": "in_progress",
+      "plan_status": "in_progress",
+      "risk_level": "low",
+      "approved_by_user": false,
+      "plan_steps": [
+        "audit build",
+        "fix blockers",
+        "verify release"
+      ],
+      "current_step": 1,
+      "checkpoints": [
+        {
+          "timestamp": "2026-10-12 19:30:12",
+          "step_index": 0,
+          "step": "audit build",
+          "note": "audit build complete"
+        }
+      ],
+      "action_history": [],
+      "activity_timeline": [],
+      "created_at": "2026-10-12 19:30:12",
+      "updated_at": "2026-10-12 19:30:12",
+      "is_plan": true,
+      "value": "PENDING | Quarterly release prep | Ship release"
+    },
+    "ship_release_19": {
+      "key": "ship_release_19",
+      "title": "Ship release",
+      "description": "Quarterly release prep",
+      "status": "in_progress",
+      "plan_status": "in_progress",
+      "risk_level": "low",
+      "approved_by_user": false,
+      "plan_steps": [
+        "audit build",
+        "fix blockers",
+        "verify release"
+      ],
+      "current_step": 1,
+      "checkpoints": [
+        {
+          "timestamp": "2026-10-12 19:34:49",
+          "step_index": 0,
+          "step": "audit build",
+          "note": "audit build complete"
+        }
+      ],
+      "action_history": [],
+      "activity_timeline": [],
+      "created_at": "2026-10-12 19:34:49",
+      "updated_at": "2026-10-12 19:34:49",
+      "is_plan": true,
+      "value": "PENDING | Quarterly release prep | Ship release"
+    },
+    "ship_release_20": {
+      "key": "ship_release_20",
+      "title": "Ship release",
+      "description": "Quarterly release prep",
+      "status": "in_progress",
+      "plan_status": "in_progress",
+      "risk_level": "low",
+      "approved_by_user": false,
+      "plan_steps": [
+        "audit build",
+        "fix blockers",
+        "verify release"
+      ],
+      "current_step": 1,
+      "checkpoints": [
+        {
+          "timestamp": "2026-10-12 19:38:26",
+          "step_index": 0,
+          "step": "audit build",
+          "note": "audit build complete"
+        }
+      ],
+      "action_history": [],
+      "activity_timeline": [],
+      "created_at": "2026-10-12 19:38:26",
+      "updated_at": "2026-10-12 19:38:26",
+      "is_plan": true,
+      "value": "PENDING | Quarterly release prep | Ship release"
+    },
+    "ship_release_21": {
+      "key": "ship_release_21",
+      "title": "Ship release",
+      "description": "Quarterly release prep",
+      "status": "in_progress",
+      "plan_status": "in_progress",
+      "risk_level": "low",
+      "approved_by_user": false,
+      "plan_steps": [
+        "audit build",
+        "fix blockers",
+        "verify release"
+      ],
+      "current_step": 1,
+      "checkpoints": [
+        {
+          "timestamp": "2026-10-12 19:45:29",
+          "step_index": 0,
+          "step": "audit build",
+          "note": "audit build complete"
+        }
+      ],
+      "action_history": [],
+      "activity_timeline": [],
+      "created_at": "2026-10-12 19:45:29",
+      "updated_at": "2026-10-12 19:45:29",
+      "is_plan": true,
+      "value": "PENDING | Quarterly release prep | Ship release"
+    },
+    "ship_release_22": {
+      "key": "ship_release_22",
+      "title": "Ship release",
+      "description": "Quarterly release prep",
+      "status": "in_progress",
+      "plan_status": "in_progress",
+      "risk_level": "low",
+      "approved_by_user": false,
+      "plan_steps": [
+        "audit build",
+        "fix blockers",
+        "verify release"
+      ],
+      "current_step": 1,
+      "checkpoints": [
+        {
+          "timestamp": "2026-10-12 19:49:37",
+          "step_index": 0,
+          "step": "audit build",
+          "note": "audit build complete"
+        }
+      ],
+      "action_history": [],
+      "activity_timeline": [],
+      "created_at": "2026-10-12 19:49:36",
+      "updated_at": "2026-10-12 19:49:37",
+      "is_plan": true,
+      "value": "PENDING | Quarterly release prep | Ship release"
+    },
+    "ship_release_23": {
+      "key": "ship_release_23",
+      "title": "Ship release",
+      "description": "Quarterly release prep",
+      "status": "in_progress",
+      "plan_status": "in_progress",
+      "risk_level": "low",
+      "approved_by_user": false,
+      "plan_steps": [
+        "audit build",
+        "fix blockers",
+        "verify release"
+      ],
+      "current_step": 1,
+      "checkpoints": [
+        {
+          "timestamp": "2026-10-12 19:54:57",
+          "step_index": 0,
+          "step": "audit build",
+          "note": "audit build complete"
+        }
+      ],
+      "action_history": [],
+      "activity_timeline": [],
+      "created_at": "2026-10-12 19:54:57",
+      "updated_at": "2026-10-12 19:54:57",
+      "is_plan": true,
+      "value": "PENDING | Quarterly release prep | Ship release"
+    },
+    "ship_release_24": {
+      "key": "ship_release_24",
+      "title": "Ship release",
+      "description": "Quarterly release prep",
+      "status": "in_progress",
+      "plan_status": "in_progress",
+      "risk_level": "low",
+      "approved_by_user": false,
+      "plan_steps": [
+        "audit build",
+        "fix blockers",
+        "verify release"
+      ],
+      "current_step": 1,
+      "checkpoints": [
+        {
+          "timestamp": "2026-10-12 19:58:57",
+          "step_index": 0,
+          "step": "audit build",
+          "note": "audit build complete"
+        }
+      ],
+      "action_history": [],
+      "activity_timeline": [],
+      "created_at": "2026-10-12 19:58:57",
+      "updated_at": "2026-10-12 19:58:57",
+      "is_plan": true,
+      "value": "PENDING | Quarterly release prep | Ship release"
+    },
+    "ship_release_25": {
+      "key": "ship_release_25",
+      "title": "Ship release",
+      "description": "Quarterly release prep",
+      "status": "in_progress",
+      "plan_status": "in_progress",
+      "risk_level": "low",
+      "approved_by_user": false,
+      "plan_steps": [
+        "audit build",
+        "fix blockers",
+        "verify release"
+      ],
+      "current_step": 1,
+      "checkpoints": [
+        {
+          "timestamp": "2026-10-12 20:56:14",
+          "step_index": 0,
+          "step": "audit build",
+          "note": "audit build complete"
+        }
+      ],
+      "action_history": [],
+      "activity_timeline": [],
+      "created_at": "2026-10-12 20:56:14",
+      "updated_at": "2026-10-12 20:56:14",
+      "is_plan": true,
+      "value": "PENDING | Quarterly release prep | Ship release"
+    },
+    "ship_release_26": {
+      "key": "ship_release_26",
+      "title": "Ship release",
+      "description": "Quarterly release prep",
+      "status": "in_progress",
+      "plan_status": "in_progress",
+      "risk_level": "low",
+      "approved_by_user": false,
+      "plan_steps": [
+        "audit build",
+        "fix blockers",
+        "verify release"
+      ],
+      "current_step": 1,
+      "checkpoints": [
+        {
+          "timestamp": "2026-10-12 21:02:54",
+          "step_index": 0,
+          "step": "audit build",
+          "note": "audit build complete"
+        }
+      ],
+      "action_history": [],
+      "activity_timeline": [],
+      "created_at": "2026-10-12 21:02:54",
+      "updated_at": "2026-10-12 21:02:54",
+      "is_plan": true,
+      "value": "PENDING | Quarterly release prep | Ship release"
+    },
+    "ship_release_27": {
+      "key": "ship_release_27",
+      "title": "Ship release",
+      "description": "Quarterly release prep",
+      "status": "in_progress",
+      "plan_status": "in_progress",
+      "risk_level": "low",
+      "approved_by_user": false,
+      "plan_steps": [
+        "audit build",
+        "fix blockers",
+        "verify release"
+      ],
+      "current_step": 1,
+      "checkpoints": [
+        {
+          "timestamp": "2026-10-12 21:08:30",
+          "step_index": 0,
+          "step": "audit build",
+          "note": "audit build complete"
+        }
+      ],
+      "action_history": [],
+      "activity_timeline": [],
+      "created_at": "2026-10-12 21:08:30",
+      "updated_at": "2026-10-12 21:08:30",
+      "is_plan": true,
+      "value": "PENDING | Quarterly release prep | Ship release"
+    },
+    "ship_release_28": {
+      "key": "ship_release_28",
+      "title": "Ship release",
+      "description": "Quarterly release prep",
+      "status": "in_progress",
+      "plan_status": "in_progress",
+      "risk_level": "low",
+      "approved_by_user": false,
+      "plan_steps": [
+        "audit build",
+        "fix blockers",
+        "verify release"
+      ],
+      "current_step": 1,
+      "checkpoints": [
+        {
+          "timestamp": "2026-10-12 21:14:58",
+          "step_index": 0,
+          "step": "audit build",
+          "note": "audit build complete"
+        }
+      ],
+      "action_history": [],
+      "activity_timeline": [],
+      "created_at": "2026-10-12 21:14:58",
+      "updated_at": "2026-10-12 21:14:58",
+      "is_plan": true,
+      "value": "PENDING | Quarterly release prep | Ship release"
+    },
+    "ship_release_29": {
+      "key": "ship_release_29",
+      "title": "Ship release",
+      "description": "Quarterly release prep",
+      "status": "in_progress",
+      "plan_status": "in_progress",
+      "risk_level": "low",
+      "approved_by_user": false,
+      "plan_steps": [
+        "audit build",
+        "fix blockers",
+        "verify release"
+      ],
+      "current_step": 1,
+      "checkpoints": [
+        {
+          "timestamp": "2026-10-12 21:22:44",
+          "step_index": 0,
+          "step": "audit build",
+          "note": "audit build complete"
+        }
+      ],
+      "action_history": [],
+      "activity_timeline": [],
+      "created_at": "2026-10-12 21:22:44",
+      "updated_at": "2026-10-12 21:22:44",
+      "is_plan": true,
+      "value": "PENDING | Quarterly release prep | Ship release"
+    },
+    "ship_release_30": {
+      "key": "ship_release_30",
+      "title": "Ship release",
+      "description": "Quarterly release prep",
+      "status": "in_progress",
+      "plan_status": "in_progress",
+      "risk_level": "low",
+      "approved_by_user": false,
+      "plan_steps": [
+        "audit build",
+        "fix blockers",
+        "verify release"
+      ],
+      "current_step": 1,
+      "checkpoints": [
+        {
+          "timestamp": "2026-10-12 21:36:02",
+          "step_index": 0,
+          "step": "audit build",
+          "note": "audit build complete"
+        }
+      ],
+      "action_history": [],
+      "activity_timeline": [],
+      "created_at": "2026-10-12 21:36:02",
+      "updated_at": "2026-10-12 21:36:02",
+      "is_plan": true,
+      "value": "PENDING | Quarterly release prep | Ship release"
+    },
+    "ship_release_31": {
+      "key": "ship_release_31",
+      "title": "Ship release",
+      "description": "Quarterly release prep",
+      "status": "in_progress",
+      "plan_status": "in_progress",
+      "risk_level": "low",
+      "approved_by_user": false,
+      "plan_steps": [
+        "audit build",
+        "fix blockers",
+        "verify release"
+      ],
+      "current_step": 1,
+      "checkpoints": [
+        {
+          "timestamp": "2026-10-12 22:02:37",
+          "step_index": 0,
+          "step": "audit build",
+          "note": "audit build complete"
+        }
+      ],
+      "action_history": [],
+      "activity_timeline": [],
+      "created_at": "2026-10-12 22:02:37",
+      "updated_at": "2026-10-12 22:02:37",
+      "is_plan": true,
+      "value": "PENDING | Quarterly release prep | Ship release"
+    },
+    "ship_release_32": {
+      "key": "ship_release_32",
+      "title": "Ship release",
+      "description": "Quarterly release prep",
+      "status": "in_progress",
+      "plan_status": "in_progress",
+      "risk_level": "low",
+      "approved_by_user": false,
+      "plan_steps": [
+        "audit build",
+        "fix blockers",
+        "verify release"
+      ],
+      "current_step": 1,
+      "checkpoints": [
+        {
+          "timestamp": "2026-10-12 22:22:49",
+          "step_index": 0,
+          "step": "audit build",
+          "note": "audit build complete"
+        }
+      ],
+      "action_history": [],
+      "activity_timeline": [],
+      "created_at": "2026-10-12 22:22:49",
+      "updated_at": "2026-10-12 22:22:49",
+      "is_plan": true,
+      "value": "PENDING | Quarterly release prep | Ship release"
+    },
+    "ship_release_33": {
+      "key": "ship_release_33",
+      "title": "Ship release",
+      "description": "Quarterly release prep",
+      "status": "in_progress",
+      "plan_status": "in_progress",
+      "risk_level": "low",
+      "approved_by_user": false,
+      "plan_steps": [
+        "audit build",
+        "fix blockers",
+        "verify release"
+      ],
+      "current_step": 1,
+      "checkpoints": [
+        {
+          "timestamp": "2026-10-12 22:24:56",
+          "step_index": 0,
+          "step": "audit build",
+          "note": "audit build complete"
+        }
+      ],
+      "action_history": [],
+      "activity_timeline": [],
+      "created_at": "2026-10-12 22:24:56",
+      "updated_at": "2026-10-12 22:24:56",
+      "is_plan": true,
+      "value": "PENDING | Quarterly release prep | Ship release"
+    },
+    "ship_release_34": {
+      "key": "ship_release_34",
+      "title": "Ship release",
+      "description": "Quarterly release prep",
+      "status": "in_progress",
+      "plan_status": "in_progress",
+      "risk_level": "low",
+      "approved_by_user": false,
+      "plan_steps": [
+        "audit build",
+        "fix blockers",
+        "verify release"
+      ],
+      "current_step": 1,
+      "checkpoints": [
+        {
+          "timestamp": "2026-10-12 22:50:50",
+          "step_index": 0,
+          "step": "audit build",
+          "note": "audit build complete"
+        }
+      ],
+      "action_history": [],
+      "activity_timeline": [],
+      "created_at": "2026-10-12 22:50:50",
+      "updated_at": "2026-10-12 22:50:50",
+      "is_plan": true,
+      "value": "PENDING | Quarterly release prep | Ship release"
+    },
+    "ship_release_35": {
+      "key": "ship_release_35",
+      "title": "Ship release",
+      "description": "Quarterly release prep",
+      "status": "in_progress",
+      "plan_status": "in_progress",
+      "risk_level": "low",
+      "approved_by_user": false,
+      "plan_steps": [
+        "audit build",
+        "fix blockers",
+        "verify release"
+      ],
+      "current_step": 1,
+      "checkpoints": [
+        {
+          "timestamp": "2026-10-12 23:15:52",
+          "step_index": 0,
+          "step": "audit build",
+          "note": "audit build complete"
+        }
+      ],
+      "action_history": [],
+      "activity_timeline": [],
+      "created_at": "2026-10-12 23:15:52",
+      "updated_at": "2026-10-12 23:15:52",
+      "is_plan": true,
+      "value": "PENDING | Quarterly release prep | Ship release"
+    },
+    "ship_release_36": {
+      "key": "ship_release_36",
+      "title": "Ship release",
+      "description": "Quarterly release prep",
+      "status": "in_progress",
+      "plan_status": "in_progress",
+      "risk_level": "low",
+      "approved_by_user": false,
+      "plan_steps": [
+        "audit build",
+        "fix blockers",
+        "verify release"
+      ],
+      "current_step": 1,
+      "checkpoints": [
+        {
+          "timestamp": "2026-10-12 23:17:27",
+          "step_index": 0,
+          "step": "audit build",
+          "note": "audit build complete"
+        }
+      ],
+      "action_history": [],
+      "activity_timeline": [],
+      "created_at": "2026-10-12 23:17:27",
+      "updated_at": "2026-10-12 23:17:27",
+      "is_plan": true,
+      "value": "PENDING | Quarterly release prep | Ship release"
+    },
+    "ship_release_37": {
+      "key": "ship_release_37",
+      "title": "Ship release",
+      "description": "Quarterly release prep",
+      "status": "in_progress",
+      "plan_status": "in_progress",
+      "risk_level": "low",
+      "approved_by_user": false,
+      "plan_steps": [
+        "audit build",
+        "fix blockers",
+        "verify release"
+      ],
+      "current_step": 1,
+      "checkpoints": [
+        {
+          "timestamp": "2026-10-12 23:22:38",
+          "step_index": 0,
+          "step": "audit build",
+          "note": "audit build complete"
+        }
+      ],
+      "action_history": [],
+      "activity_timeline": [],
+      "created_at": "2026-10-12 23:22:38",
+      "updated_at": "2026-10-12 23:22:38",
+      "is_plan": true,
+      "value": "PENDING | Quarterly release prep | Ship release"
+    },
+    "ship_release_38": {
+      "key": "ship_release_38",
+      "title": "Ship release",
+      "description": "Quarterly release prep",
+      "status": "in_progress",
+      "plan_status": "in_progress",
+      "risk_level": "low",
+      "approved_by_user": false,
+      "plan_steps": [
+        "audit build",
+        "fix blockers",
+        "verify release"
+      ],
+      "current_step": 1,
+      "checkpoints": [
+        {
+          "timestamp": "2026-10-12 23:23:58",
+          "step_index": 0,
+          "step": "audit build",
+          "note": "audit build complete"
+        }
+      ],
+      "action_history": [],
+      "activity_timeline": [],
+      "created_at": "2026-10-12 23:23:58",
+      "updated_at": "2026-10-12 23:23:58",
+      "is_plan": true,
+      "value": "PENDING | Quarterly release prep | Ship release"
+    },
+    "ship_release_39": {
+      "key": "ship_release_39",
+      "title": "Ship release",
+      "description": "Quarterly release prep",
+      "status": "in_progress",
+      "plan_status": "in_progress",
+      "risk_level": "low",
+      "approved_by_user": false,
+      "plan_steps": [
+        "audit build",
+        "fix blockers",
+        "verify release"
+      ],
+      "current_step": 1,
+      "checkpoints": [
+        {
+          "timestamp": "2026-10-12 23:30:25",
+          "step_index": 0,
+          "step": "audit build",
+          "note": "audit build complete"
+        }
+      ],
+      "action_history": [],
+      "activity_timeline": [],
+      "created_at": "2026-10-12 23:30:25",
+      "updated_at": "2026-10-12 23:30:25",
+      "is_plan": true,
+      "value": "PENDING | Quarterly release prep | Ship release"
+    },
+    "ship_release_40": {
+      "key": "ship_release_40",
+      "title": "Ship release",
+      "description": "Quarterly release prep",
+      "status": "in_progress",
+      "plan_status": "in_progress",
+      "risk_level": "low",
+      "approved_by_user": false,
+      "plan_steps": [
+        "audit build",
+        "fix blockers",
+        "verify release"
+      ],
+      "current_step": 1,
+      "checkpoints": [
+        {
+          "timestamp": "2026-10-12 23:39:37",
+          "step_index": 0,
+          "step": "audit build",
+          "note": "audit build complete"
+        }
+      ],
+      "action_history": [],
+      "activity_timeline": [],
+      "created_at": "2026-10-12 23:39:37",
+      "updated_at": "2026-10-12 23:39:37",
+      "is_plan": true,
+      "value": "PENDING | Quarterly release prep | Ship release"
+    },
+    "ship_release_41": {
+      "key": "ship_release_41",
+      "title": "Ship release",
+      "description": "Quarterly release prep",
+      "status": "in_progress",
+      "plan_status": "in_progress",
+      "risk_level": "low",
+      "approved_by_user": false,
+      "plan_steps": [
+        "audit build",
+        "fix blockers",
+        "verify release"
+      ],
+      "current_step": 1,
+      "checkpoints": [
+        {
+          "timestamp": "2026-10-12 23:44:10",
+          "step_index": 0,
+          "step": "audit build",
+          "note": "audit build complete"
+        }
+      ],
+      "action_history": [],
+      "activity_timeline": [],
+      "created_at": "2026-10-12 23:44:10",
+      "updated_at": "2026-10-12 23:44:10",
+      "is_plan": true,
+      "value": "PENDING | Quarterly release prep | Ship release"
+    },
+    "ship_release_42": {
+      "key": "ship_release_42",
+      "title": "Ship release",
+      "description": "Quarterly release prep",
+      "status": "in_progress",
+      "plan_status": "in_progress",
+      "risk_level": "low",
+      "approved_by_user": false,
+      "plan_steps": [
+        "audit build",
+        "fix blockers",
+        "verify release"
+      ],
+      "current_step": 1,
+      "checkpoints": [
+        {
+          "timestamp": "2026-10-12 23:50:43",
+          "step_index": 0,
+          "step": "audit build",
+          "note": "audit build complete"
+        }
+      ],
+      "action_history": [],
+      "activity_timeline": [],
+      "created_at": "2026-10-12 23:50:43",
+      "updated_at": "2026-10-12 23:50:43",
+      "is_plan": true,
+      "value": "PENDING | Quarterly release prep | Ship release"
+    },
+    "ship_release_43": {
+      "key": "ship_release_43",
+      "title": "Ship release",
+      "description": "Quarterly release prep",
+      "status": "in_progress",
+      "plan_status": "in_progress",
+      "risk_level": "low",
+      "approved_by_user": false,
+      "plan_steps": [
+        "audit build",
+        "fix blockers",
+        "verify release"
+      ],
+      "current_step": 1,
+      "checkpoints": [
+        {
+          "timestamp": "2026-10-12 23:51:14",
+          "step_index": 0,
+          "step": "audit build",
+          "note": "audit build complete"
+        }
+      ],
+      "action_history": [],
+      "activity_timeline": [],
+      "created_at": "2026-10-12 23:51:14",
+      "updated_at": "2026-10-12 23:51:14",
+      "is_plan": true,
+      "value": "PENDING | Quarterly release prep | Ship release"
+    },
+    "ship_release_44": {
+      "key": "ship_release_44",
+      "title": "Ship release",
+      "description": "Quarterly release prep",
+      "status": "in_progress",
+      "plan_status": "in_progress",
+      "risk_level": "low",
+      "approved_by_user": false,
+      "plan_steps": [
+        "audit build",
+        "fix blockers",
+        "verify release"
+      ],
+      "current_step": 1,
+      "checkpoints": [
+        {
+          "timestamp": "2026-10-13 00:54:13",
+          "step_index": 0,
+          "step": "audit build",
+          "note": "audit build complete"
+        }
+      ],
+      "action_history": [],
+      "activity_timeline": [],
+      "created_at": "2026-10-13 00:54:13",
+      "updated_at": "2026-10-13 00:54:13",
+      "is_plan": true,
+      "value": "PENDING | Quarterly release prep | Ship release"
+    },
+    "ship_release_45": {
+      "key": "ship_release_45",
+      "title": "Ship release",
+      "description": "Quarterly release prep",
+      "status": "in_progress",
+      "plan_status": "in_progress",
+      "risk_level": "low",
+      "approved_by_user": false,
+      "plan_steps": [
+        "audit build",
+        "fix blockers",
+        "verify release"
+      ],
+      "current_step": 1,
+      "checkpoints": [
+        {
+          "timestamp": "2026-10-13 01:19:00",
+          "step_index": 0,
+          "step": "audit build",
+          "note": "audit build complete"
+        }
+      ],
+      "action_history": [],
+      "activity_timeline": [],
+      "created_at": "2026-10-13 01:19:00",
+      "updated_at": "2026-10-13 01:19:00",
+      "is_plan": true,
+      "value": "PENDING | Quarterly release prep | Ship release"
+    },
+    "ship_release_46": {
+      "key": "ship_release_46",
+      "title": "Ship release",
+      "description": "Quarterly release prep",
+      "status": "in_progress",
+      "plan_status": "in_progress",
+      "risk_level": "low",
+      "approved_by_user": false,
+      "plan_steps": [
+        "audit build",
+        "fix blockers",
+        "verify release"
+      ],
+      "current_step": 1,
+      "checkpoints": [
+        {
+          "timestamp": "2026-10-13 01:19:31",
+          "step_index": 0,
+          "step": "audit build",
+          "note": "audit build complete"
+        }
+      ],
+      "action_history": [],
+      "activity_timeline": [],
+      "created_at": "2026-10-13 01:19:31",
+      "updated_at": "2026-10-13 01:19:31",
+      "is_plan": true,
+      "value": "PENDING | Quarterly release prep | Ship release"
+    },
+    "ship_release_47": {
+      "key": "ship_release_47",
+      "title": "Ship release",
+      "description": "Quarterly release prep",
+      "status": "in_progress",
+      "plan_status": "in_progress",
+      "risk_level": "low",
+      "approved_by_user": false,
+      "plan_steps": [
+        "audit build",
+        "fix blockers",
+        "verify release"
+      ],
+      "current_step": 1,
+      "checkpoints": [
+        {
+          "timestamp": "2026-10-14 10:23:05",
+          "step_index": 0,
+          "step": "audit build",
+          "note": "audit build complete"
+        }
+      ],
+      "action_history": [],
+      "activity_timeline": [],
+      "created_at": "2026-10-14 10:23:05",
+      "updated_at": "2026-10-14 10:23:05",
+      "is_plan": true,
+      "value": "PENDING | Quarterly release prep | Ship release"
+    },
+    "ship_release_48": {
+      "key": "ship_release_48",
+      "title": "Ship release",
+      "description": "Quarterly release prep",
+      "status": "in_progress",
+      "plan_status": "in_progress",
+      "risk_level": "low",
+      "approved_by_user": false,
+      "plan_steps": [
+        "audit build",
+        "fix blockers",
+        "verify release"
+      ],
+      "current_step": 1,
+      "checkpoints": [
+        {
+          "timestamp": "2026-10-14 10:24:44",
+          "step_index": 0,
+          "step": "audit build",
+          "note": "audit build complete"
+        }
+      ],
+      "action_history": [],
+      "activity_timeline": [],
+      "created_at": "2026-10-14 10:24:44",
+      "updated_at": "2026-10-14 10:24:44",
+      "is_plan": true,
+      "value": "PENDING | Quarterly release prep | Ship release"
+    },
+    "ship_release_49": {
+      "key": "ship_release_49",
+      "title": "Ship release",
+      "description": "Quarterly release prep",
+      "status": "in_progress",
+      "plan_status": "in_progress",
+      "risk_level": "low",
+      "approved_by_user": false,
+      "plan_steps": [
+        "audit build",
+        "fix blockers",
+        "verify release"
+      ],
+      "current_step": 1,
+      "checkpoints": [
+        {
+          "timestamp": "2026-10-14 11:07:44",
+          "step_index": 0,
+          "step": "audit build",
+          "note": "audit build complete"
+        }
+      ],
+      "action_history": [],
+      "activity_timeline": [],
+      "created_at": "2026-10-14 11:07:44",
+      "updated_at": "2026-10-14 11:07:45",
+      "is_plan": true,
+      "value": "PENDING | Quarterly release prep | Ship release"
+    },
+    "ship_release_50": {
+      "key": "ship_release_50",
+      "title": "Ship release",
+      "description": "Quarterly release prep",
+      "status": "in_progress",
+      "plan_status": "in_progress",
+      "risk_level": "low",
+      "approved_by_user": false,
+      "plan_steps": [
+        "audit build",
+        "fix blockers",
+        "verify release"
+      ],
+      "current_step": 1,
+      "checkpoints": [
+        {
+          "timestamp": "2026-10-14 11:09:14",
+          "step_index": 0,
+          "step": "audit build",
+          "note": "audit build complete"
+        }
+      ],
+      "action_history": [],
+      "activity_timeline": [],
+      "created_at": "2026-10-14 11:09:14",
+      "updated_at": "2026-10-14 11:09:14",
+      "is_plan": true,
+      "value": "PENDING | Quarterly release prep | Ship release"
+    }
+  },
+  "monitors": {
+    "electric_cars_newest_advancements": {
+      "topic": "electric cars newest advancements",
+      "added": "2026-10-10",
+      "last_check": "2026-10-13",
+      "last_hash": "7da49de98075"
+    },
+    "space_exploration": {
+      "topic": "space exploration",
+      "added": "2026-10-10",
+      "last_check": "2026-10-13",
+      "last_hash": "c7d94ea2b383"
+    },
+    "ai_news": {
+      "topic": "AI news",
+      "added": "2026-10-10",
+      "last_check": "2026-10-13",
+      "last_hash": "3203a6d2bc45"
+    },
+    "car_mechanic": {
+      "topic": "car mechanic",
+      "added": "2026-10-10",
+      "last_check": "2026-10-13",
+      "last_hash": "da5c4250d8cf"
+    },
+    "screen_content_changes": {
+      "topic": "screen content changes",
+      "added": "2026-10-11",
+      "last_check": "2026-10-13",
+      "last_hash": "1d190db31c82"
+    }
+  },
+  "history": {
+    "conversation_topics": {
+      "value": "creator name clarification, news fetching failure, cocaine query, shutdown request",
+      "created": "2026-10-12",
+      "updated": "2026-10-12"
+    }
+  },
+  "user": {
+    "assistant_name_pronunciation": {
+      "value": "ZAY-russ",
+      "created": "2026-10-12",
+      "updated": "2026-10-12"
+    }
+  }
+}

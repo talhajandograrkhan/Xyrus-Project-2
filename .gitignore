@@ -1,0 +1,33 @@
+# Secrets
+.env
+.env.*
+config/api_keys.json
+**/api_keys.json
+*.pem
+*.key
+
+# Python
+.venv/
+venv/
+env/
+__pycache__/
+**/__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# macOS
+.DS_Store
+**/.DS_Store
+__MACOSX/
+**/__MACOSX/
+
+# Editors
+.vscode/
+.idea/
+
+# Generated files
+*.log
+memory/audit.log
+dist/
+build/
