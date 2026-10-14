@@ -31,3 +31,5 @@ __MACOSX/
 memory/audit.log
 dist/
 build/
+
+.github/workflows/ci.yml
